@@ -123,7 +123,7 @@ Esto asegura que la base de datos sea eficiente, sin redundancias y fácil de ma
 
 ## 👨‍💼 Autor
 
-**Dairop**  
+**Dairo Arenas Giraldo / Juan Pablo Colorado**  
 Estudiante universitario, apasionado por las bases de datos y el modelado relacional.  
 Proyecto desarrollado como evidencia de competencias en normalización y diseño de bases de datos relacionales.
 
@@ -134,4 +134,8 @@ Proyecto desarrollado como evidencia de competencias en normalización y diseño
 Este proyecto cumple con el criterio de evaluación “**Excelente (5)**”:
 
 > *"El modelo está completamente normalizado (1FN, 2FN, 3FN). Se justifican claramente los ajustes realizados."*
+
+## Diagrama Entidad-Relación
+![Diagrama Entidad Relacion](https://github.com/user-attachments/assets/b022823e-dc76-4c8a-b787-4e5336e2f77a)
+
 

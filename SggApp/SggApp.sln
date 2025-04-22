@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SggApp.API", "SggApp.API\SggApp.API.csproj", "{BBAA06FC-2909-4CE0-93FA-C23897E01397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SggApp.BLL", "SggApp.BLL\SggApp.BLL.csproj", "{0D0129FC-39DF-41C0-BAE2-DE26966B7E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SggApp.DAL", "SggApp.DAL\SggApp.DAL.csproj", "{C879BC7D-FB48-4E2F-9004-C8790D42B889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAA06FC-2909-4CE0-93FA-C23897E01397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAA06FC-2909-4CE0-93FA-C23897E01397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAA06FC-2909-4CE0-93FA-C23897E01397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAA06FC-2909-4CE0-93FA-C23897E01397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0129FC-39DF-41C0-BAE2-DE26966B7E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0129FC-39DF-41C0-BAE2-DE26966B7E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0129FC-39DF-41C0-BAE2-DE26966B7E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0129FC-39DF-41C0-BAE2-DE26966B7E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C879BC7D-FB48-4E2F-9004-C8790D42B889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C879BC7D-FB48-4E2F-9004-C8790D42B889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C879BC7D-FB48-4E2F-9004-C8790D42B889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C879BC7D-FB48-4E2F-9004-C8790D42B889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

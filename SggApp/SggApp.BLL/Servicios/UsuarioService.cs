@@ -1,4 +1,5 @@
-﻿using SggApp.DAL.Entidades;
+﻿using SggApp.BLL.Interfaces;
+using SggApp.DAL.Entidades;
 using SggApp.DAL.Repositorios;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SggApp.BLL.Servicios
 {
-    public class UsuarioService
+    public class UsuarioService : IUsuarioService
     {
         private readonly UsuarioRepository _repo;
         public UsuarioService(UsuarioRepository repo) => _repo = repo;

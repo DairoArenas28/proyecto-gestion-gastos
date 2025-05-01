@@ -1,4 +1,5 @@
 ﻿using SggApp.API.Entidades;
+using SggApp.BLL.Interfaces;
 using SggApp.DAL.Repositorios;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SggApp.BLL.Servicios
 {
-    public class PresupuestoService
+    public class PresupuestoService : IPresupuestoService
     {
         private readonly PresupuestoRepository _repo;
         public PresupuestoService(PresupuestoRepository repo) => _repo = repo;

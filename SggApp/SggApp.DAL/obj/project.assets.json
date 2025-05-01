@@ -4711,23 +4711,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dairo Arenas\\.nuget\\packages\\": {},
+    "C:\\Users\\Skys0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dairo Arenas\\Desktop\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\SggApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Skys0\\OneDrive\\Escritorio\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\SggApp.DAL.csproj",
       "projectName": "SggApp.DAL",
-      "projectPath": "C:\\Users\\Dairo Arenas\\Desktop\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\SggApp.DAL.csproj",
-      "packagesPath": "C:\\Users\\Dairo Arenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dairo Arenas\\Desktop\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\obj\\",
+      "projectPath": "C:\\Users\\Skys0\\OneDrive\\Escritorio\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\SggApp.DAL.csproj",
+      "packagesPath": "C:\\Users\\Skys0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Skys0\\OneDrive\\Escritorio\\proyecto-gestion-gastos\\SggApp\\SggApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dairo Arenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Skys0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4791,7 +4791,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SggApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0300130ea054a5255f92511cc74e50886a05dff7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+325b9f593a56b7170bc4f06bd9907b945e41051a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SggApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SggApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

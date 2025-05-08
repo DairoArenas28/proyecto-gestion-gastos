@@ -1,1 +1,18 @@
 SggApp/.vs
+# Visual Studio
+SggApp/.vs/
+*.user
+*.suo
+
+# Build results (correctamente escritos)
+**/bin/
+**/obj/
+
+# JetBrains Rider
+.idea/
+
+# Others
+*.db
+*.sqlite
+*.log
+/SggApp/SggApp.API/obj/

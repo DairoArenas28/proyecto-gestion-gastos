@@ -19,4 +19,8 @@
     <ProjectReference Include="..\SggApp.DAL\SggApp.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+
 </Project>

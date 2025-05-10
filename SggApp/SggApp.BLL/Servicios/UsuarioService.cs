@@ -1,5 +1,5 @@
 ﻿using SggApp.BLL.Interfaces;
-using SggApp.DAL.Entidades;
+using SggApp.Domain.Entidades;
 using SggApp.DAL.Repositorios;
 using System;
 using System.Collections.Generic;

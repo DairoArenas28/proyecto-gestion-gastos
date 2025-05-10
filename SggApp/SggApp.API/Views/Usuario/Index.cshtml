@@ -1,7 +1,20 @@
-﻿@page
-@model SggApp.API.Views.Usuario.IndexModel
-@{
-    
-}
-
-
+﻿@model IEnumerable<SggApp.Domain.Entidades.Usuario>
+<h1>Usuarios</h1>
+<p><a asp-action="Create">Crear nuevo</a></p>
+<table>
+    <thead><tr><th>Nombre</th><th>Email</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Nombre</td>
+                <td>@u.Email</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@u.Id">Ver</a> |
+                    <a asp-action="Edit" asp-route-id="@u.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@u.Id">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SggApp.API.Entidades;
-using SggApp.DAL.Entidades;
+using SggApp.Domain.Entidades;
 
 namespace SggApp.API.Contextos
 {

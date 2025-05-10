@@ -1,4 +1,4 @@
-﻿using SggApp.API.Entidades;
+﻿using SggApp.Domain.Entidades;
 using SggApp.BLL.Interfaces;
 using SggApp.DAL.Repositorios;
 using System;

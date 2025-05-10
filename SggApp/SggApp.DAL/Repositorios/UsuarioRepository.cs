@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 using SggApp.API.Contextos;
-using SggApp.DAL.Entidades;
+using SggApp.Domain.Entidades;
 
 namespace SggApp.DAL.Repositorios
 {

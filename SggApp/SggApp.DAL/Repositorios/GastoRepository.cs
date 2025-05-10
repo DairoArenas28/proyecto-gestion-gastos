@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SggApp.API.Contextos;
-using SggApp.DAL.Entidades;
+using SggApp.Domain.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;

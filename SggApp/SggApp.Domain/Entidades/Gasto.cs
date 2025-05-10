@@ -1,7 +1,6 @@
-﻿using SggApp.API.Entidades;
-using System;
+﻿using System;
 
-namespace SggApp.DAL.Entidades
+namespace SggApp.Domain.Entidades
 {
     public class Gasto
     {

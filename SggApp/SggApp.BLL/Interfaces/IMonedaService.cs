@@ -1,4 +1,4 @@
-﻿using SggApp.API.Entidades;
+﻿using SggApp.Domain.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;

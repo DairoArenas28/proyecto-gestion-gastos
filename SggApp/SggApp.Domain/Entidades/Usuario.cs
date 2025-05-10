@@ -1,8 +1,8 @@
-﻿using SggApp.API.Entidades;
+﻿using SggApp.Domain.Entidades;
 using System;
 using System.Collections.Generic;
 
-namespace SggApp.DAL.Entidades
+namespace SggApp.Domain.Entidades
 {
     public class Usuario
     {

@@ -1,6 +1,6 @@
-﻿using SggApp.DAL.Entidades;
+﻿using SggApp.Domain.Entidades;
 
-namespace SggApp.API.Entidades
+namespace SggApp.Domain.Entidades
 {
     public class Presupuesto
     {

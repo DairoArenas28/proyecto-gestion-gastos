@@ -1,5 +1,9 @@
 # Sistema de Gestión de Finanzas Personales
 
+##Integrantes
+### Dairo Fernando Arenas Giraldo
+### Juan Pablo Orozco Colorado
+
 Este proyecto tiene como objetivo la creación de una base de datos relacional completamente normalizada para la **gestión de finanzas personales**. Incluye:
 
 - Modelo entidad-relación.
